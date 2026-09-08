@@ -13,12 +13,15 @@ public class Main {
         GestionDeTurnos gestionDeTurnos = new GestionDeTurnos();
 
         do{
+            System.out.println("=====================================================");
             System.out.println("\nBienvenido al Menú de Acciones, ¿que desea hacer?");
+            System.out.println("\n=====================================================");
             System.out.println("\nElija las Siguientes Opciones:");
             System.out.println("1-Agregar Cliente normal");
             System.out.println("2-Agregar Cliente VIP");
             System.out.println("3-Atender al siguiente cliente");
             System.out.println("4-Salir de la interfaz");
+            System.out.println("\n=====================================================");
 
             Scanner escaneador = new Scanner(System.in);
 
