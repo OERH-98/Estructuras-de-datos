@@ -24,9 +24,7 @@ public class Main {
 
             try {
                 opcion = Integer.parseInt(String.valueOf(escaneador.nextInt()));
-            } catch (Exception e) {
-                System.out.println("Error, Escribe una opción valida");
-            }
+
             String cliente;
 
             switch (opcion) {
@@ -48,6 +46,9 @@ public class Main {
                 default:
                     System.out.println("Opción no valida intente de nuevo");
                     break;
+            }
+            } catch (Exception e) {
+                System.out.println("Error, Escribe una opción valida");
             }
         } while (opcion !=4);
         System.out.println("ERROR");
