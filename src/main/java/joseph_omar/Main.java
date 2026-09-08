@@ -15,8 +15,6 @@ public class Main {
             System.out.println("1-Gestión de Turnos bancarios");
             System.out.println("2-Salir");
 
-            opcion = Integer.parseInt(String.valueOf(escaneador.nextInt()));
-
                 switch (opcion) {
                     case 1:
                         System.out.println("Bienvenido a la gestión de turno, se le gestionara el turno");
