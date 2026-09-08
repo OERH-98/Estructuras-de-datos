@@ -8,15 +8,15 @@ Es un exámen de estructura de datos, donde se  nos da un problema y se tiene qu
 
 ## Autores
 
-- [@OERH-98](https://github.com/OERH-98)
-- [@JosepeXD](https://github.com/Josepexd)
+- [@Omar Ernesto Rivera Hernández](https://github.com/OERH-98)
+- [@Joseph Jeremy Gonzalez Hernández](https://github.com/Josepexd)
 
 
 # Bienvenido al proyecto de estructura de datos!
 
 Aquí están las partes asignadas del ejercicio del exámen:
 
-- [@OERH-98](https://github.com/OERH-98)
+- [@Omar Ernesto Rivera Hernández](https://github.com/OERH-98)
 
   -Creación del Readme.md
 
@@ -24,7 +24,7 @@ Aquí están las partes asignadas del ejercicio del exámen:
 
   -Resolver la mitad del problema
 
-- [@JosepeXD](https://github.com/Josepexd)
+- [@Joseph Jeremy Gonzalez Hernández](https://github.com/Josepexd)
 
   -Creación de la clase
 
@@ -35,8 +35,8 @@ Aquí están las partes asignadas del ejercicio del exámen:
 
 
 ## Usos de:
-- [@OERH-98](https://github.com/OERH-98)
-- [@JosepeXD](https://github.com/Josepexd)
+- [@Omar Ernesto Rivera Hernández](https://github.com/OERH-98)
+- [@Joseph Jeremy Gonzalez Hernández](https://github.com/Josepexd)
 - Josue Guinea
 ## Justificacion
 
