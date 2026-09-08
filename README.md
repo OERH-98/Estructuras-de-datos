@@ -40,6 +40,6 @@ Aquí están las partes asignadas del ejercicio del exámen:
 - Josue Guinea
 ## Justificacion
 
-Se ha usado la estructura de linked list porque mantiene la organizacion y se puede agregar un dato primero a la lista sin necesidad de estarnos moviendo a traves del arreglo, asi mismo asi se puede agregar de ultimo, y como la situacion del ejercicio lo requeria ya que teniamos que diferenciar entre un client VIP y un cliente normal ya que el VIP se agrega de primera y el normal de ultimo.
+Se ha usado la estructura de linked list porque mantiene la organizacion y se puede agregar un dato primero a la lista sin necesidad de estarnos moviendo a traves del arreglo, asi mismo asi se puede agregar de ultimo, y como la situacion del ejercicio lo requeria ya que teniamos que diferenciar entre un cliente VIP y un cliente normal ya que el VIP se agrega de primera y el normal de ultimo.
 
 
